@@ -385,7 +385,7 @@ Hero
 @media (min-width: 720px) {
   .banner {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-      url("/img/pexels-kaboompics-com-6267.jpg") center / cover no-repeat;
+      url("../img/pexels-kaboompics-com-6267.jpg") center / cover no-repeat;
     overflow: hidden;
   }
 
